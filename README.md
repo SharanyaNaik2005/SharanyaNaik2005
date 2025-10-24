@@ -8,10 +8,10 @@
 ### 🩺 [Digital Heart Care](https://github.com/SharanyaNaik2005/digital-heart-care/blob/main/README.md)   
 A web-based healthcare project that helps doctors and patients manage heart health records digitally.   It ensures **secure storage**, **easy access**, and **efficient sharing** of patient information, reducing manual record management.      
 ## 🛠️ Tech Stack   
-**• Languages:** Python,C   
+**• Languages:** Python, C   
 **• Web Technologies:** HTML, CSS, JavaScript   
 **• Database:** MySQL, DBMS
-**• Tools:**GitHub, VS Code
+**• Tools:** GitHub, VS Code
 
 ## 🏅 Certifications   
 **• IT Specialist – Databases (Certiport)**   

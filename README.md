@@ -6,7 +6,9 @@
 
 ## 💻 My Project   
 ### 🩺 [Digital Heart Care](https://github.com/SharanyaNaik2005/digital-heart-care/blob/main/README.md)   
-A web-based healthcare project that helps doctors and patients manage heart health records digitally.   It ensures **secure storage**, **easy access**, and **efficient sharing** of patient information, reducing manual record management.      
+A web-based healthcare project that helps doctors and patients manage heart health records digitally.   
+It ensures **secure storage**, **easy access**, and **efficient sharing** of patient information, reducing manual record management.      
+
 ## 🛠️ Tech Stack   
 **• Languages:** Python, C   
 **• Web Technologies:** HTML, CSS, JavaScript   
@@ -15,11 +17,8 @@ A web-based healthcare project that helps doctors and patients manage heart heal
 
 ## 🏅 Certifications   
 **• IT Specialist – Databases (Certiport)**   
-
 **• Python Training (ETHNOTECH Academic Solutions)**   
-
-**• Certificate in Generative AI,Time Management and negotiation skills(Infosys Springboard )** 
-
+**• Certificate in Generative AI,Time Management and negotiation skills(Infosys Springboard)** 
 **• AWS Academy Cloud Foundations-(Amazon Web Services)** 
 
 ## 🌐 Let's Connect   

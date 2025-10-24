@@ -10,14 +10,14 @@ A web-based healthcare project that helps doctors and patients manage heart heal
 ## 🛠️ Tech Stack   
 **• Languages:** Python,C   
 **• Web Technologies:** HTML, CSS, JavaScript   
-**• Database:** MySQL, DBMS   
+**• Database:** MySQL, DBMS
+**• Tools:**GitHub, VS Code
 
 ## 🏅 Certifications   
 **• IT Specialist – Databases (Certiport)**   
 **• Python Training (ETHNOTECH Academic Solutions)**   
 **• Infosys Springboard – Certificate in Generative AI, Prompt Engineering, Open AI GPT models** 
 **• AWS Academy Cloud Foundations-Amazon Web Services** 
-**• Time Management & Negotiation Skills (Infosys Springboard)**  
 
 ## 🌐 Let's Connect   
 📧 **Email:** [sharanyanaik2005@gmail.com](mailto:sharanyanaik2005@gmail.com)   

@@ -16,7 +16,7 @@ A web-based healthcare project that helps doctors and patients manage heart heal
 **• IT Specialist – Databases (Certiport)**   
 **• Python Training (ETHNOTECH Academic Solutions)**   
 **• Infosys Springboard – Certificate in Generative AI, Prompt Engineering, Open AI GPT models** 
-**• AWS Academy Graduate - AWS Academy Cloud Foundations-Amazon Web Services** 
+**• AWS Academy Cloud Foundations-Amazon Web Services** 
 **• Time Management & Negotiation Skills (Infosys Springboard)**  
 
 ## 🌐 Let's Connect   

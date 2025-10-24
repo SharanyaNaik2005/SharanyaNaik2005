@@ -6,7 +6,7 @@
 
 ## 💻 My Project   
 ### 🩺 [Digital Heart Care](https://github.com/SharanyaNaik2005/digital-heart-care/blob/main/README.md)   
-A web-based healthcare project that helps doctors and patients manage heart health records digitally.   It ensures **secure storage**, **easy access**, and **efficient sharing** of patient information, reducing manual record management.    ---  
+A web-based healthcare project that helps doctors and patients manage heart health records digitally.   It ensures **secure storage**, **easy access**, and **efficient sharing** of patient information, reducing manual record management.      
 ## 🛠️ Tech Stack   
 **• Languages:** Python,C   
 **• Web Technologies:** HTML, CSS, JavaScript   
@@ -22,7 +22,7 @@ A web-based healthcare project that helps doctors and patients manage heart heal
 ## 🌐 Let's Connect   
 📧 **Email:** [sharanyanaik2005@gmail.com](mailto:sharanyanaik2005@gmail.com)   
 💼 **LinkedIn:** [linkedin.com/in/sharanya-a907a52a5](https://www.linkedin.com/in/sharanya-a907a52a5)   
-💻 **GitHub:** [github.com/SharanyaNaik2005](https://github.com/SharanyaNaik2005)    --- 
+💻 **GitHub:** [github.com/SharanyaNaik2005](https://github.com/SharanyaNaik2005)    
 
 ## 🌟 Fun Fact  
 I love exploring new tools and technologies — and believe that small projects can make a big impact! ✨
